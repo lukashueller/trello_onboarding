@@ -54,6 +54,7 @@ Ausnahme: Chapter `Pipeline & Organisation`
     3. **Fälligkeitsdatum**
         1. hilft bei besserer Planung im Team
         2. visuelle Erinnerung am Fälligkeitstag
+    5. Karte an richtige Stelle ziehen
 
 ## Fortgeschrittene Möglichkeiten mit Karten (5’)
 

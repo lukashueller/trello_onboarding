@@ -1,9 +1,28 @@
 # Trello-Workshop Telekom
 
+### Aufnahme?
+
+## Disclaimer
+ * dieser Workshop soll die grundlegenden Funktionen zeigen, um effektiv mit Trello zu arbeiten
+ * zudem gehen wir auf die Team-Besonderheiten / Regeln ein
+ * es wird keine Hands-On-Session geben
+    * ich will Euch nur zeigen, was generell geht
+    * alle gezeigten Dinge könnt Ihr auf dem Onepager nochmals nachschlagen
+ * sollte ich bei der Demonstration zu schnell vorgehen, unterbrecht mich gern!
+
+## Einführende Worte
+ * Trello von Atlassian entwickelt (vor 9 Jahren gegründet)
+ * gefühlt die einzig kostenlose Software von Atlassian
+ * dient der Neukundenakquise für Atlassian JIRA (Trello auf Drogen)
+ * findet aufgrund der häufigen Verwendung als online-Kanban-Board in viele Firmen Verwendung
+ 
+ * Trello gibt es als APP (Mobile, Windows & Mac) + Browser
+
 ## Struktur des Trello-Boards (5’)
 1. jedes Chapter & Squad haben eigene Liste
 Ausnahme: Chapter `Pipeline & Organisation`
 2. Spalte mit alten ToDo’s ganz links (evtl. Termin zum Aufräumen einplanen!)
+    * Wird dann in Kartenarchiv umfunktiuoniert
 3. **Menü** ganz rechts
     1. **Kartensuche** -> Kann als Filter genutzt werden
     2. **・・・Mehr** -> Archivierte Karten  (können auch über die Suche gefunden werden
@@ -19,9 +38,10 @@ Ausnahme: Chapter `Pipeline & Organisation`
 
 ## Was ist eine Karte? Was muss eine Karte enthalten? (5’)
 1. **Karte = ToDo** -> grob gefasste Aufgabe
-    1. Kartenname nicht zu generisch
-    2. wenn möglich, einheitliche Benennung!
+    1. Kartenname nicht zu generisch (Bsp.: Laptops Microsoft)
+    2. wenn möglich, einheitliche Präfix-Benennung!
 2. zu **jeder** Karte gehört:
+    1. Titel & aussagekräftige Beschreibung
     1. 1..n Verantwortliche
         1. taggen mit @ & \<tab>
         2. @card
